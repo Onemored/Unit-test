@@ -1,0 +1,1 @@
+![CI](https://github.com/Onemored/Unit-test/actions/workflows/ci.yml/badge.svg)
